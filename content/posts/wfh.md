@@ -17,6 +17,8 @@ The game is popular among kids, college students, and even working adults. While
 
 An interviewee, smolcano, shared her work-from-home setup.
 
+![the switch is best placed at eye level, so you can constantly monitor the game](/media/wfh.jpg)
+
 "It's imperative to have the switch placed right in front of my homework. That way, I can always be alert when a balloon flies by." 
 
 Now, balloons in ACNH are not the latex inflatables you see at parties. Every one will run after a balloon they see, even climbing up cliffs and crossing rivers. Yes, all that just so they can wring a slingshot at that balloon.
