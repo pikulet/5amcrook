@@ -36,7 +36,7 @@ self.__precacheManifest = [
     "url": "styles-117479406f6e61ad4793.js"
   },
   {
-    "url": "commons-8c76563b53254ce6f484.js"
+    "url": "commons-81e799105a4841f0a22d.js"
   },
   {
     "url": "netlify-identity-widget-8e6f024872c0d48ae324.js"
@@ -49,7 +49,7 @@ self.__precacheManifest = [
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "d0e2765337c2e48f085ff2f2168e8e9e"
+    "revision": "30a42cd78f5fc14a502cbd87172048ff"
   },
   {
     "url": "manifest.json",
@@ -57,7 +57,7 @@ self.__precacheManifest = [
   },
   {
     "url": "manifest.webmanifest",
-    "revision": "97b6b9639b88172929f5100bac8b0143"
+    "revision": "65b43550dc5133012f8c44ddcaff70ec"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
