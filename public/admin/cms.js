@@ -63,7 +63,7 @@
 /******/
 /******/ 	var hotApplyOnUpdate = true;
 /******/ 	// eslint-disable-next-line no-unused-vars
-/******/ 	var hotCurrentHash = "3377c244ddee0fb2b593";
+/******/ 	var hotCurrentHash = "418870257f6994625372";
 /******/ 	var hotRequestTimeout = 10000;
 /******/ 	var hotCurrentModuleData = {};
 /******/ 	var hotCurrentChildModule;
@@ -867,8 +867,8 @@ _netlifyIdentityWidget.default.init();
     return;
   }
 
-  reactHotLoader.register(_netlifyIdentityWidget, "_netlifyIdentityWidget", "/home/joyce/Desktop/5amcrook/node_modules/gatsby-plugin-netlify-cms/cms-identity.js");
-  reactHotLoader.register(addLoginListener, "addLoginListener", "/home/joyce/Desktop/5amcrook/node_modules/gatsby-plugin-netlify-cms/cms-identity.js");
+  reactHotLoader.register(_netlifyIdentityWidget, "_netlifyIdentityWidget", "/home/joyce/5amcrook/node_modules/gatsby-plugin-netlify-cms/cms-identity.js");
+  reactHotLoader.register(addLoginListener, "addLoginListener", "/home/joyce/5amcrook/node_modules/gatsby-plugin-netlify-cms/cms-identity.js");
 })();
 
 ;
@@ -949,8 +949,8 @@ if (false) {} else {
     return;
   }
 
-  reactHotLoader.register(_netlifyCmsApp, "_netlifyCmsApp", "/home/joyce/Desktop/5amcrook/node_modules/gatsby-plugin-netlify-cms/cms.js");
-  reactHotLoader.register(_emitter, "_emitter", "/home/joyce/Desktop/5amcrook/node_modules/gatsby-plugin-netlify-cms/cms.js");
+  reactHotLoader.register(_netlifyCmsApp, "_netlifyCmsApp", "/home/joyce/5amcrook/node_modules/gatsby-plugin-netlify-cms/cms.js");
+  reactHotLoader.register(_emitter, "_emitter", "/home/joyce/5amcrook/node_modules/gatsby-plugin-netlify-cms/cms.js");
 })();
 
 ;
@@ -1162,7 +1162,7 @@ netlify_cms_app__WEBPACK_IMPORTED_MODULE_0___default.a.registerPreviewTemplate('
 __webpack_require__.r(__webpack_exports__);
 /* WEBPACK VAR INJECTION */(function(module) {/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-var _jsxFileName = "/home/joyce/Desktop/5amcrook/src/cms/preview-templates/page-preview.js";
+var _jsxFileName = "/home/joyce/5amcrook/src/cms/preview-templates/page-preview.js";
 
 (function () {
   var enterModule = typeof reactHotLoaderGlobal !== 'undefined' ? reactHotLoaderGlobal.enterModule : undefined;
@@ -1215,8 +1215,8 @@ var _default = PagePreview;
     return;
   }
 
-  reactHotLoader.register(PagePreview, "PagePreview", "/home/joyce/Desktop/5amcrook/src/cms/preview-templates/page-preview.js");
-  reactHotLoader.register(_default, "default", "/home/joyce/Desktop/5amcrook/src/cms/preview-templates/page-preview.js");
+  reactHotLoader.register(PagePreview, "PagePreview", "/home/joyce/5amcrook/src/cms/preview-templates/page-preview.js");
+  reactHotLoader.register(_default, "default", "/home/joyce/5amcrook/src/cms/preview-templates/page-preview.js");
 })();
 
 ;
@@ -1240,7 +1240,7 @@ var _default = PagePreview;
 __webpack_require__.r(__webpack_exports__);
 /* WEBPACK VAR INJECTION */(function(module) {/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-var _jsxFileName = "/home/joyce/Desktop/5amcrook/src/cms/preview-templates/post-preview.js";
+var _jsxFileName = "/home/joyce/5amcrook/src/cms/preview-templates/post-preview.js";
 
 (function () {
   var enterModule = typeof reactHotLoaderGlobal !== 'undefined' ? reactHotLoaderGlobal.enterModule : undefined;
@@ -1293,8 +1293,8 @@ var _default = PostPreview;
     return;
   }
 
-  reactHotLoader.register(PostPreview, "PostPreview", "/home/joyce/Desktop/5amcrook/src/cms/preview-templates/post-preview.js");
-  reactHotLoader.register(_default, "default", "/home/joyce/Desktop/5amcrook/src/cms/preview-templates/post-preview.js");
+  reactHotLoader.register(PostPreview, "PostPreview", "/home/joyce/5amcrook/src/cms/preview-templates/post-preview.js");
+  reactHotLoader.register(_default, "default", "/home/joyce/5amcrook/src/cms/preview-templates/post-preview.js");
 })();
 
 ;
@@ -1314,9 +1314,9 @@ var _default = PostPreview;
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! /home/joyce/Desktop/5amcrook/node_modules/gatsby-plugin-netlify-cms/cms.js */"./node_modules/gatsby-plugin-netlify-cms/cms.js");
-__webpack_require__(/*! /home/joyce/Desktop/5amcrook/node_modules/gatsby-plugin-netlify-cms/cms-identity.js */"./node_modules/gatsby-plugin-netlify-cms/cms-identity.js");
-module.exports = __webpack_require__(/*! /home/joyce/Desktop/5amcrook/src/cms/index.js */"./src/cms/index.js");
+__webpack_require__(/*! /home/joyce/5amcrook/node_modules/gatsby-plugin-netlify-cms/cms.js */"./node_modules/gatsby-plugin-netlify-cms/cms.js");
+__webpack_require__(/*! /home/joyce/5amcrook/node_modules/gatsby-plugin-netlify-cms/cms-identity.js */"./node_modules/gatsby-plugin-netlify-cms/cms-identity.js");
+module.exports = __webpack_require__(/*! /home/joyce/5amcrook/src/cms/index.js */"./src/cms/index.js");
 
 
 /***/ }),
