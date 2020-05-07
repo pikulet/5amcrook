@@ -25,8 +25,6 @@ module.exports = {
     photo: '/photo.jpg',
     bio: 'just an average player trying to grow green mums',
     contacts: {
-      email: 'jycyeo@yahoo.com.sg',
-      github: 'pikulet',
       telegram: 'the5amcrook',
     }
   }

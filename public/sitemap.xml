@@ -2,11 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url> <loc>https://5amcrook.netlify.app/tags</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://5amcrook.netlify.app/categories</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://5amcrook.netlify.app/pages/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://5amcrook.netlify.app/posts/wfh-acnh</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://5amcrook.netlify.app/posts/crooked-raymond</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://5amcrook.netlify.app/posts/terraforming-app</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://5amcrook.netlify.app/pages/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://5amcrook.netlify.app/posts/katana-glitch</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://5amcrook.netlify.app/tag/balloons</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://5amcrook.netlify.app/tag/katana</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://5amcrook.netlify.app/tag/raymond</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://5amcrook.netlify.app/tag/terraform</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://5amcrook.netlify.app/category/daily-life</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
