@@ -1,6 +1,6 @@
 ---
 title: WFH with a Nintendo Switch
-date: "2020-03-29"
+date: "2020-04-02"
 template: "post"
 draft: false
 slug: "wfh-acnh"
@@ -19,8 +19,8 @@ An interviewee, smolcano, shared her work-from-home setup.
 
 ![the switch is best placed at eye level, so you can constantly monitor the game](/media/wfh.jpg)
 
-"It's imperative to have the switch placed right in front of my homework. That way, I can always be alert when a balloon flies by." 
+"It's imperative to have the switch placed right in front of my homework. That way, I can always be alert when a balloon flies by."
 
-Now, balloons in ACNH are not the latex inflatables you see at parties. Every one will run after a balloon they see, even climbing up cliffs and crossing rivers. Yes, all that just so they can wring a slingshot at that balloon.
+Now, balloons in ACNH are not the latex inflatables you see at parties. Everyone will run after a balloon they see, even climbing up cliffs and crossing rivers. Yes, all that just so they can wring a slingshot at that balloon.
 
 smolcano's switch-work setup is not unique, which is no wonder the average playtime in the global player base is at least 12 hours a day.

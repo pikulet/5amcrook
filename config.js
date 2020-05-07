@@ -23,7 +23,7 @@ module.exports = {
   author: {
     name: 'smolcano@herbi',
     photo: '/photo.jpg',
-    bio: 'just an average player trying to earn mums',
+    bio: 'just an average player trying to grow green mums',
     contacts: {
       email: 'jycyeo@yahoo.com.sg',
       github: 'pikulet',
