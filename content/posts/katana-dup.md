@@ -1,5 +1,5 @@
 ---
-title: Katana Duplicate Glitch
+title: Katana Duplication Glitch
 date: "2020-05-05"
 template: "post"
 draft: false

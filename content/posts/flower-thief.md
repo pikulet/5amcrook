@@ -1,5 +1,5 @@
 ---
-title: Crime - flower thief caught!
+title: Crime - Flower Thief Caught!
 date: "2020-04-10"
 template: "post"
 draft: false
@@ -19,6 +19,8 @@ A very apt Chinese term can be used to describe this group of people:
 
 > 采花贼
 
-According to new laws, the thief will be fined \$300 for not wearing a mask. A doctor's mask only costs \$160 ingame, but limited supplies have meant that each user can only buy 5 a day.
+The thief declined an interview with the5amcrook.
+
+According to new laws, the thief will be fined \$300 for not wearing a mask. A doctor's mask only costs \$160 ingame, but limited supplies have meant that each user can only buy 5 a day. This makes makes more limited than eggs at the supermarket, since we can checkout 30 eggs with each purchase.
 
 *( trigger warning for 采花贼: While the literally meaning is a flower thief, it's usually used to refer to bastardous criminals )*
