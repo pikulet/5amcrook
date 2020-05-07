@@ -3,17 +3,18 @@ title: Crooked Popularity - Raymond
 date: "2020-04-10"
 template: "post"
 draft: false
-slug: "crooked-raymond"
+slug: "raymond"
 category: "villagers"
 tags:
   - "raymond"
-description: "Raymond is one of the exceedingly popular villagers in ACNH. Just why is this suited cat so crookedly popular?"
+description: "Raymond is one of the exceedingly popular villagers in ACNH. Just why is this suited cat so uncattingly popular?"
 
 ---
 
 Raymond, yes. Every player has heard of this elusive cat. In Nintendo's eyes, every villager is equal. They were obviously wrong. For many players in the ACNH community, Raymond is more equal than others.
 
 **Who is Raymond?**
+
 No, he's not your forty-year-old second uncle who loves to eat Wanton Noodles. He's also nothing much more than that:
 
 ![raymond, so simple](/media/raymond.jpg)

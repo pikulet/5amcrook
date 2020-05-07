@@ -15,4 +15,6 @@ Recently, the Katana glitch has been making rounds among the ACNH community. tld
 
 While most players have been spending their hours making copies of the katana, smolcano shared about her money duplication trick. She is able to directly duplicate bells by visiting a friends' island and making bets on their colourful wheel.
 
+![smolcano gambling](/media/making_bets.jpg)
+
 In the meantime, we can anticipate the Indonesian silat industry to be blooming as Animal Crossing players hone their katana kraft.
