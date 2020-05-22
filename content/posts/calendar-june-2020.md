@@ -7,7 +7,7 @@ slug: "planner-june-2020"
 category: "design"
 tags:
   - "design"
-description: "A planner template for June, including villager birthdays"
+description: "A planner template for June, including villager birthdays."
 
 ---
 

@@ -3,7 +3,7 @@ title: SPOILER Answers for Animal Crossing Puzzle 1
 date: "2020-05-17"
 template: "post"
 draft: false
-slug: "puzzle-1"
+slug: "puzzle-1-ans"
 category: "puzzle"
 tags:
   - "puzzle"
