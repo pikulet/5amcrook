@@ -1,5 +1,5 @@
 ---
-title: Animal Crossing Puzzle #1
+title: Animal Crossing Puzzle 1
 date: "2020-05-15"
 template: "post"
 draft: false
