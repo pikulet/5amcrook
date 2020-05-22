@@ -136,15 +136,6 @@
   Link: </styles-117479406f6e61ad4793.js>; rel=preload; as=script
   Link: </commons-8b99f946b54eb3eacef1.js>; rel=preload; as=script
   Link: </component---src-templates-post-template-js-33432f89ec5146157a58.js>; rel=preload; as=script
-/posts/puzzle-1
-  Link: </webpack-runtime-1d7fd7d2dddeb55cc1c5.js>; rel=preload; as=script
-  Link: </styles-117479406f6e61ad4793.js>; rel=preload; as=script
-  Link: </commons-8b99f946b54eb3eacef1.js>; rel=preload; as=script
-  Link: </netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
-  Link: </app-96a96851b206d9410b91.js>; rel=preload; as=script
-  Link: </styles-117479406f6e61ad4793.js>; rel=preload; as=script
-  Link: </commons-8b99f946b54eb3eacef1.js>; rel=preload; as=script
-  Link: </component---src-templates-post-template-js-33432f89ec5146157a58.js>; rel=preload; as=script
 /posts/puzzle-2
   Link: </webpack-runtime-1d7fd7d2dddeb55cc1c5.js>; rel=preload; as=script
   Link: </styles-117479406f6e61ad4793.js>; rel=preload; as=script
@@ -155,6 +146,15 @@
   Link: </commons-8b99f946b54eb3eacef1.js>; rel=preload; as=script
   Link: </component---src-templates-post-template-js-33432f89ec5146157a58.js>; rel=preload; as=script
 /posts/planner-june-2020
+  Link: </webpack-runtime-1d7fd7d2dddeb55cc1c5.js>; rel=preload; as=script
+  Link: </styles-117479406f6e61ad4793.js>; rel=preload; as=script
+  Link: </commons-8b99f946b54eb3eacef1.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
+  Link: </app-96a96851b206d9410b91.js>; rel=preload; as=script
+  Link: </styles-117479406f6e61ad4793.js>; rel=preload; as=script
+  Link: </commons-8b99f946b54eb3eacef1.js>; rel=preload; as=script
+  Link: </component---src-templates-post-template-js-33432f89ec5146157a58.js>; rel=preload; as=script
+/posts/puzzle-1
   Link: </webpack-runtime-1d7fd7d2dddeb55cc1c5.js>; rel=preload; as=script
   Link: </styles-117479406f6e61ad4793.js>; rel=preload; as=script
   Link: </commons-8b99f946b54eb3eacef1.js>; rel=preload; as=script

@@ -11,6 +11,22 @@ description: "Test your ACNH knowledge!"
 
 ---
 
+.
+
+.
+
+> SPOILER ALERT! If you want to attempt the puzzle, please click [here](/posts/puzzle-1).
+
+.
+
+.
+
+.
+
+.
+
+.
+
 ![cw1 answers](/media/cw1_answers.png)
 
 Explanation:
