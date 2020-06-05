@@ -14,3 +14,5 @@ description: "Test your ACNH knowledge!"
 ![cw2](/media/cw2.jpg)
 
 Answers will be uploaded two days from now.
+
+Update: Answers now available [here](/posts/puzzle-2-ans).
