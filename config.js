@@ -26,6 +26,7 @@ module.exports = {
     bio: 'just an average player trying to grow green mums',
     contacts: {
       telegram: 'the5amcrook',
+      instagram: 'pikales.acnh'
     }
   }
 };
