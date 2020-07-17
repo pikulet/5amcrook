@@ -1,6 +1,6 @@
 ---
 title: SPOILER Answers for Animal Crossing Puzzle 4
-date: "2020-06-03"
+date: "2020-06-10"
 template: "post"
 draft: false
 slug: "puzzle-4-ans"
